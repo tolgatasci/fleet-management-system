@@ -125,7 +125,6 @@ LoadSmart, lojistik sirketleri icin tasarlanmis tam ozellikli bir filo yonetim s
 
 **Tolga Tasci**
 - GitHub: [@tolgatasci](https://github.com/tolgatasci)
-- Website: [loadsmart.app](https://loadsmart.app)
 
 ---
 
