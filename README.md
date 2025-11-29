@@ -125,7 +125,6 @@ LoadSmart is a full-featured fleet management system designed for logistics comp
 
 **Tolga Tasci**
 - GitHub: [@tolgatasci](https://github.com/tolgatasci)
-- Website: [loadsmart.app](https://loadsmart.app)
 
 ---
 
